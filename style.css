@@ -1,0 +1,22 @@
+#post-logo{
+    background-color: rgba(255, 228, 196, 0.378);
+    color: rgb(14, 103, 73);
+    padding: 1.3em;
+}
+#fonte{
+    color: rgb(126, 192, 192);
+}
+.featured{
+    color: brown;
+}
+.link{
+    color: rgb(14, 103, 73);
+}
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
